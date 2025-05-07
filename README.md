@@ -43,6 +43,6 @@
 # This is level 4 (Vínculos)
 [Adobe](https://www.adobe.com)
 --------------------------------------------------
-![Adobe Logo](/docs/contributor/assets/adobe_standard_logo.png "Hover text")
+![Adobe Logo](/docs/contributor/assets/adobe_standard_logo.jpg "Hover text")
 
 
